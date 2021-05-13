@@ -1,0 +1,9 @@
+#root{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.container12{
+    background-color:rgb(245, 245, 245);
+}
